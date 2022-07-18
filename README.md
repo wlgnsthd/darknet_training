@@ -68,7 +68,7 @@ random=1
 ## Put xmls into xmls folder and make it yolov3 label
 ### path : conversion/xmls & conversion/output
 ```
-python3 conversion/xmltotxt.py
+python3 conversion/xmltotxt.py -xml conversion/xmls -out conversion/output
 ```
 ________________________
 ## Put images(jpg) and labels(txt) into "dataset" folder
