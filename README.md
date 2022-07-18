@@ -1,9 +1,10 @@
 # Yolo Custom Training 
-### https://keyog.tistory.com/6?category=879585
+#### https://keyog.tistory.com/6?category=879585
+#### https://github.com/AlexeyAB/darknet.git
 ## Install Cuda
 ## Install Darknet
 ```
-git clone https://github.com/AlexeyAB/darknet.git
+git clone https://github.com/wlgnsthd/darknet_training.git
 cd darknet
 
 gedit Makefile
