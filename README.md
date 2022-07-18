@@ -5,6 +5,7 @@
 ## Install Darknet
 ```
 git clone https://github.com/wlgnsthd/darknet_training.git
+# OR git clone https://github.com/AlexeyAB/darknet.git
 cd darknet
 
 gedit Makefile
