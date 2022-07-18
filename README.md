@@ -74,7 +74,7 @@ ________________________
 ## Put images(jpg) and labels(txt) into "dataset" folder
 ### path : customs/dataset
 __________________
-## Make train.txt and validation.txt, 7:3
+## Move train.txt and validation.txt from customs/dataset, 7:3
 ### path : customs/train.txt & customs/valdiation.txt 
 ```
 python3 customs/train_val.py
