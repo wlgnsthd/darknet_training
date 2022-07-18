@@ -1,7 +1,0 @@
-classes=2
-train= /DATA2/JHS/YoloV3-Custom-Object-Detection/training/train.txt # put your own path here
-valid= /DATA2/JHS/YoloV3-Custom-Object-Detection/training/test.txt # put your own path here
-names= /DATA2/JHS/YoloV3-Custom-Object-Detection/training/object.names # put your own path here
-backup= backup/
-eval=coco
-
