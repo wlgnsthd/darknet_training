@@ -87,9 +87,9 @@ ladder
 ```
 ```
 classes= 2
-train  = custom/train.txt
-valid  = custom/validation.txt
-names = custom/custom.names
+train  = customs/train.txt
+valid  = customs/validation.txt
+names = customs/custom.names
 backup = backup/
 ```
 ## Pretrain model 다운로드
