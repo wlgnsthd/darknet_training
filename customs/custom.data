@@ -1,0 +1,7 @@
+classes=2
+train= /customs/train.txt
+valid= /customs/validation.txt
+names= /customs/custom.names
+backup= backup/
+eval=coco
+
