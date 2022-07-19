@@ -93,7 +93,7 @@ valid  = customs/validation.txt
 names = customs/custom.names
 backup = backup/
 ```
-## Pretrain model 다운로드
+## Pretrain model 다운로드 (tiny는 yolov4-tiny.conv.29)
 ```
 wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137
 ```
