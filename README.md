@@ -7,6 +7,7 @@
 ```
 git clone https://github.com/wlgnsthd/darknet_training.git
 # OR git clone https://github.com/AlexeyAB/darknet.git
+cp darknet_training darknet
 cd darknet
 
 gedit Makefile
