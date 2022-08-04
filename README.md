@@ -2,7 +2,7 @@
 #### https://keyog.tistory.com/6?category=879585
 #### https://github.com/AlexeyAB/darknet.git
 ## Install Cuda
-### RTX 3090 *8 cuda 11.0 cuda8.0.4
+### RTX 3090 *8 cuda 11.0 cudnn8.0.4
 ## Install Darknet
 ```
 git clone https://github.com/wlgnsthd/darknet_training.git
